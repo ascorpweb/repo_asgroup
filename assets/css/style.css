@@ -324,6 +324,12 @@ h6 {
     }
 }
 
+@media (max-width: 1566px) {
+    .home {
+        left: 650px;
+    }
+}
+
 
 /**
 * Mobile Navigation
